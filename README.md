@@ -1,15 +1,44 @@
-# the-borrowed-nuke-bot
-This is a nuke bot from axes thanks to him &lt;3 love to him and credit to him
-So what you will do is go to replit.com make a python and download both the files the config and the main and upload the files onto the replit 
-and you can change the code if you want but add credit ;) 
-if you need help dm (っ◔◡◔)っ ♥ Psycho101rl ♥#5136 or dm Dexzy✞#0001
-also if you need help with setting your bot up 24/7 i will help you just dm me (っ◔◡◔)っ ♥ Psycho101rl ♥#5136 i also have another version V2
-it will cost 10 invites for the V2 or we can make a deal together if there is something wrong with the bot dm me (っ◔◡◔)っ ♥ Psycho101rl ♥#5136
-If this doesnt work for you dm me (っ◔◡◔)っ ♥ Psycho101rl ♥#5136 ill give you a link and you can fork it
+# Discord-Nuke-Bot-V2
+A Discord Nuke bot Made By [ psycho and dexzy ]  Give Credits If You post Somewhere else: 🖕
 
 
 
+# Features 🔥
+1. -[x] NukeAll
+2. -[x] MassBan
+3. -[x] MassKick
+4. -[x] DelChannel
+5. -[x] delroles
+6. -[x] adminall
 
-[Screen recording 2022-11-05 2.58.03 AM.webm](https://user-images.githubusercontent.com/117510114/200114228-b170d056-8363-4055-abf8-3faea5efa0db.webm)
+## Extra
+1. -[x] Help
+2. -[x] serverinfo
+3. -[x] Shutdown
+
+### How To Use
+Skip This If You Running On Replit Direct Fork Link At Last
+1. Clone Repo
+```
+git clone https://github.com/psychoanddexzy/the-borrowed-nuke-bot
+```
+2. CD CLONED REPO
+```
+cd Discord-Nuke-Bot-V2
+```
+3. Put Bot Token Or Configure other setting in config.json
+4. Run It
+```
+python main.py 
+```
 
 
+Made By - psycho and dexzy
+
+[Youtube](https://www.youtube.com/channel/UCMEhNSLa2O6WQqtqpjwu-sw)
+
+
+# Vedio Tutorial 
+[![Youtube]([https://m.youtube.com/channel/UCziMP_zNYRQNlNxcK6jaAiw)](https://youtu.be/PiVOMD0sLb4)
+
+<a href="https://www.buymeacoffee.com/AshOp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
