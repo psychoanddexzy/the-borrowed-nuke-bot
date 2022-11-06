@@ -1,5 +1,6 @@
 # Discord-Nuke-Bot-V2
 A Discord Nuke bot Made By [ psycho and dexzy ]  Give Credits If You post Somewhere else: 🖕
+need help dm:Dexzy✞#0001 or (っ◔◡◔)っ ♥ Psycho101rl ♥#5136 
 
 
 
